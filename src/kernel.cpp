@@ -23,8 +23,6 @@ static std::map<int, unsigned int> mapStakeModifierCheckpoints =
 static std::map<int, unsigned int> mapStakeModifierCheckpointsTestNet =
     boost::assign::map_list_of
         ( 0, 0xe00670b  )
-        ( 500, 0x0e660d03  )
-        ( 1500, 0xf80e5a7a  )
     ;
 
 // Get time weight
