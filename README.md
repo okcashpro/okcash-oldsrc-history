@@ -8,3 +8,5 @@ More info:
 Website: http://www.okcash.co
 
 E-mail Contact: devteam@okcash.co
+
+Twitter: @
