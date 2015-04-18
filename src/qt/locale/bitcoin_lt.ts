@@ -78,7 +78,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a OKCash address</source>
+        <source>Sign a message to prove you own an OKCash address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -425,7 +425,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a OKCash address</source>
+        <source>Send coins to an OKCash address</source>
         <translation type="unfinished"/>
     </message>
     <message>

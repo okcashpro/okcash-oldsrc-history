@@ -82,7 +82,7 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a OKCash address</source>
+        <source>Sign a message to prove you own an OKCash address</source>
         <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă OKCash</translation>
     </message>
     <message>
@@ -429,7 +429,7 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a OKCash address</source>
+        <source>Send coins to an OKCash address</source>
         <translation>Trimite monede către o adresă OKCash</translation>
     </message>
     <message>

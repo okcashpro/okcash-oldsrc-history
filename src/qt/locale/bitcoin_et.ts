@@ -79,7 +79,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a OKCash address</source>
+        <source>Sign a message to prove you own an OKCash address</source>
         <translation>Allkirjasta sõnum OKCash&apos;i aadressi omamise tõestamiseks.</translation>
     </message>
     <message>
@@ -426,7 +426,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a OKCash address</source>
+        <source>Send coins to an OKCash address</source>
         <translation type="unfinished"/>
     </message>
     <message>

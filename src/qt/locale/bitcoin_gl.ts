@@ -79,7 +79,7 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a OKCash address</source>
+        <source>Sign a message to prove you own an OKCash address</source>
         <translation>Firma a mensaxe para probar que tes unha dirección OKCash</translation>
     </message>
     <message>
@@ -426,7 +426,7 @@ Este produto inclúe software desenvolvido polo OpenSSL Project para o uso no Op
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a OKCash address</source>
+        <source>Send coins to an OKCash address</source>
         <translation>Enviar moedas a unha dirección OKCash</translation>
     </message>
     <message>

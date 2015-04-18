@@ -81,7 +81,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a OKCash address</source>
+        <source>Sign a message to prove you own an OKCash address</source>
         <translation>對信息進行簽名以證明您對該黑幣地址的所有權</translation>
     </message>
     <message>
@@ -428,7 +428,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a OKCash address</source>
+        <source>Send coins to an OKCash address</source>
         <translation>向指定的地址發送黑幣</translation>
     </message>
     <message>

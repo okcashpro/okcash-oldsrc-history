@@ -81,8 +81,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a OKCash address</source>
-        <translation>Sign a message to prove you own a OKCash address</translation>
+        <source>Sign a message to prove you own an OKCash address</source>
+        <translation>Sign a message to prove you own an OKCash address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -431,8 +431,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a OKCash address</source>
-        <translation>Send coins to a OKCash address</translation>
+        <source>Send coins to an OKCash address</source>
+        <translation>Send coins to an OKCash address</translation>
     </message>
     <message>
         <location line="+45"/>
