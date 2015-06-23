@@ -4,13 +4,17 @@ OKCash $OK
 
 OKCash is a new and easy to use crypto-currency similar to Bitcoin improved with a POS reward system.
 
-Website: http://www.okcash.co
+Website: 
+(en) http://www.okcash.co
+(es) http://es.okcash.co
 
 E-mail Contact: devteam@okcash.co
 
-Twitter: @okcashteam
+Twitter: https://twitter.com/OKCashCrypto
 
-Reddit: /r/okcash
+Reddit: https://www.reddit.com/r/OKcash
+
+Voat: https://voat.co/v/ok
 
 Multipool: https://www.okcashpool.info
 
