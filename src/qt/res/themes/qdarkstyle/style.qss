@@ -68,7 +68,7 @@ QWidget:item:selected
 QMenuBar
 {
     background-color: #f7f7f7;
-    color: #ffffff;
+    color: #bed2ed;
 }
 
 QMenuBar::item
@@ -79,7 +79,7 @@ QMenuBar::item
 QMenuBar::item:selected
 {
     background: transparent;
-    border: 1px solid #ffffff;
+    border: 1px solid #f7f7f7;
 }
 
 QMenuBar::item:pressed
