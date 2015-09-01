@@ -843,7 +843,7 @@ QTreeView::branch:open:has-children:has-siblings:hover  {
 QListView::item:!selected:hover, QListView::item:!selected:hover, QTreeView::item:!selected:hover  {
     background: #f7f7f7;
     outline: 0;
-    color: #ffffff;
+    color: #0165a2;
 }
 
 QListView::item:selected:hover, QListView::item:selected:hover, QTreeView::item:selected:hover  {
