@@ -124,7 +124,7 @@ QWidget:disabled
 QAbstractItemView
 {
     alternate-background-color: #f7f7f7;
-    color: #b5f1ff;
+    color: #0165a5;
     border: 1px solid d9d9d9;
     border-radius: 3px;
     padding: 1px;
