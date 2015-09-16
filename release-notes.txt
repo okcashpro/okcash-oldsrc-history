@@ -1,0 +1,77 @@
+
+
+Release Notes
+
+
+Version 3.0.0.0
+
+
+
+Changes
+ 
+- Implemented PoS V2
+    
+    
+ 
+- Removed Thin mode staking
+    The network relies on full nodes for security.
+    Staking should be a reward for maintaining a full node.
+    
+
+ 
+- Removed hash from DiskBlockIndex
+    hash is saved in the key, no need to save it twice, 32 bytes saved per block
+    Key prefix "blockindex" changed to "bidx", 36 bytes saved per block
+    
+    
+    The TXDB version has been raised to 70510.
+    
+   
+
+On first boot the nodes will wipe any database before 70509 and initialise
+    a reindex, which will reload the TXDB from the stored blockchain.
+    
+    
+
+For Databases of verson 70509 an migration will run, significantly faster
+    than a reindex.  
+
+All existing nodes should be on txdb version 70509.
+    
+    Thin nodes don't store the blockchain and will need to redownload.
+    
+    
+
+Note: Reindexing the chain could cause your failed stake transactions to be
+    detected as occuring during the reindex, and displayed at the top of the
+    transaction list.  
+
+They can be removed by running clearwallettransactions
+    followed by reloadanondata.
+    
+
+
+ 
+
+- Enabled unit tests
+    Compile: make -f makefile.unix test_okcash
+    
+Run: ./test_okcash --log_level=10
+    
+
+
+
+ - printstakemodifier, printcoinstake and printcoinage are replaced by debugpos
+
+
+
+
+
+
+
+
+
+
+
+
+
