@@ -848,7 +848,7 @@ bool CTransaction::CheckTransaction() const
     
     if (nVersion == ANON_TXN_VERSION)
     {
-        // -- Prevent anon txns in live until after block 257000
+        // -- Prevent anon txns in live until after block 470000
         
         if (!fTestNet && nBestHeight < 470000)
         {
