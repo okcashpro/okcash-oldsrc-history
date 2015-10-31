@@ -1,10 +1,11 @@
-
-OKCash development tree
+![OKCash-OK](http://i.imgur.com/rOeEycy.png)
+OKCash OK
+===========================
 
 OKCash is a PoS-based cryptocurrency.
 
-Development process
-===========================
+OKCash Development process
+--------
 
 Developers work in their own trees, then submit pull requests when
 they think their feature or bug fix is ready.
