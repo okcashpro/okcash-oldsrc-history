@@ -175,13 +175,13 @@ public:
         convertSeeds(vFixedSeeds, pnSeed, ARRAYLEN(pnSeed), nDefaultPort);
 		
 		
-		nThirdYearBlock = 1523771; // + 1 year blocks average
-		nSecondYearBlock = 1022514; // + 1 year blocks average
-		nFirstYearBlock = 521257;  // 501257 blocks/year + 20000 blocks
+        nThirdYearBlock = 1523771; // + 1 year blocks average
+        nSecondYearBlock = 1022514; // + 1 year blocks average
+        nFirstYearBlock = 521257;  // 501257 blocks/year + 20000 blocks
 		
-		nLastPOWBlock = 33186;
+        nLastPOWBlock = 33186;
         nLastFairLaunchBlock = 30;
-		nDistributionFund = 1;
+        nDistributionFund = 1;
     }
 
     virtual const CBlock& GenesisBlock() const { return genesis; }
