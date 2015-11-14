@@ -16,7 +16,6 @@
         <source>Copyright © 2009-2015 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014-2015 The BlackCoin developers
-Copyright © 2014-2015 The ShadowCoin developers 
 Copyright © 2014-2015 The OKCash developers</source>
         <translation>コピーライト © 2009-2014 The Bitcoin developers
 コピーライト © 2012-2014 The NovaCoin developers
