@@ -60,7 +60,7 @@ int64_t CChainParams::GetProofOfStakeReward(int nHeight, int64_t nCoinAge, int64
 {
     // miner's coin stake reward based on coin age spent (coin-days)
     int64_t nSubsidy = nCoinAge * KCOIN_YEAR_REWARD * 33 / (365 * 33 + 8);
-	
+    
     if (nHeight <= nFirstYearBlock)
         nSubsidy = nCoinAge * COIN_YEAR_REWARD * 33 / (365 * 33 + 8);
     else
@@ -70,6 +70,8 @@ int64_t CChainParams::GetProofOfStakeReward(int nHeight, int64_t nCoinAge, int64
     if (nHeight <= nThirdYearBlock)
         nSubsidy = nCoinAge * CCOIN_YEAR_REWARD * 33 / (365 * 33 + 8);
     
+
+
     if (fDebug && GetBoolArg("-printcreation"))
         LogPrintf("GetProofOfStakeReward(): create=%s nCoinAge=%d\n", FormatMoney(nSubsidy).c_str(), nCoinAge);
     
@@ -174,12 +176,11 @@ public:
         
         //convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
         convertSeeds(vFixedSeeds, pnSeed, ARRAYLEN(pnSeed), nDefaultPort);
-		
-		
+        
         nThirdYearBlock = 1523771; // + 1 year blocks average
         nSecondYearBlock = 1022514; // + 1 year blocks average
-        nFirstYearBlock = 521257;  // 501257 blocks/year + 20000 blocks
-		
+        nFirstYearBlock = 531257;  // 501257 blocks/year + 20k blocks(nov 30) + 10k blocks update
+        
         nLastPOWBlock = 33186;
         nLastFairLaunchBlock = 30;
         nDistributionFund = 1;
