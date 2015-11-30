@@ -61,13 +61,13 @@ int64_t CChainParams::GetProofOfStakeReward(int nHeight, int64_t nCoinAge, int64
     // miner's coin stake reward based on coin age spent (coin-days)
     int64_t nSubsidy = nCoinAge * KCOIN_YEAR_REWARD * 33 / (365 * 33 + 8);
 	
-	if (nHeight <= nFirstYearBlock)
+    if (nHeight <= nFirstYearBlock)
         nSubsidy = nCoinAge * COIN_YEAR_REWARD * 33 / (365 * 33 + 8);
     else
-	if (nHeight <= nSecondYearBlock)
+    if (nHeight <= nSecondYearBlock)
         nSubsidy = nCoinAge * SCOIN_YEAR_REWARD * 33 / (365 * 33 + 8);
     else	
-	if (nHeight <= nThirdYearBlock)
+    if (nHeight <= nThirdYearBlock)
         nSubsidy = nCoinAge * CCOIN_YEAR_REWARD * 33 / (365 * 33 + 8);
     
     if (fDebug && GetBoolArg("-printcreation"))
