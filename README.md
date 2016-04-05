@@ -2,7 +2,7 @@
 OKCash OK
 ===========================
 
-![OK-bootstrap](http://i.imgur.com/edwu0MM.png) Updated OKchain bootstrap: http://bit.ly/OKchain
+![OK-bootstrap](http://i.imgur.com/edwu0MM.png) Updated Instant Bootstrap (OK-blockchain): https://github.com/okcashpro/ok-blockchain/releases
 
 OKCash is digital cash. OK is the official symbol. Transactions have really fast confirmations, making them virtually instant. You can send OKCash to family or friends, or pay for goods or services, anywhere in the world. The OKCash network is decentralized and free from middlemen, giving you back control of your finances and providing a secure network for all of your payments. 
 
@@ -40,5 +40,10 @@ Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labelled 'stale'.
 
+#Live Support @ OK Community Slack
+
+[![Visit the OK Community Slack for Support!](https://kiwiirc.com/buttons/irc.freenode.net/ok-support.png)](https://okcash.herokuapp.com/)
+
+#IRC
 
 [![Visit the OK Community IRC Chat for Support!](https://kiwiirc.com/buttons/irc.freenode.net/okcash.png)](https://kiwiirc.com/client/irc.freenode.net/?nick=ok|?&theme=cli#okcash)
