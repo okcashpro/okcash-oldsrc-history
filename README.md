@@ -1,4 +1,5 @@
 ![OKCash-OK](http://i.imgur.com/rOeEycy.png)
+[![Build Status](https://travis-ci.org/okcashpro/okcash.svg?branch=master)](https://travis-ci.org/okcashpro/okcash)
 OKCash OK
 ===========================
 
