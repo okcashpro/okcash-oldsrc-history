@@ -1,6 +1,6 @@
 ![OKCash-OK](http://i.imgur.com/rOeEycy.png)
 
-[![Build Status](https://travis-ci.org/okcashpro/okcash.svg?branch=master)](https://travis-ci.org/okcashpro/okcash)
+[![Build Status](https://travis-ci.org/okcashpro/okcash.svg?branch=master)](https://travis-ci.org/okcashpro/okcash) [![Download OK wallet](https://img.shields.io/badge/downloads-latest%20client-blue.svg)](https://github.com/okcashpro/okcash/releases/latest) [![OK Network](https://img.shields.io/badge/network%20status-stable-brightgreen.svg)](http://explorer.okcash.co) 
 OKCash OK
 ===========================
 
@@ -42,9 +42,9 @@ Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labelled 'stale'.
 
-#Live Support @ OK Community Slack
+#OK Community at Slack
 
-[![Visit the OK Community Slack for Support!](https://kiwiirc.com/buttons/irc.freenode.net/ok-support.png)](https://okcash.herokuapp.com/)
+[![Slack Community](https://img.shields.io/badge/slack-okcash-blue.svg)](https://okcash.herokuapp.com)
 
 #IRC
 
