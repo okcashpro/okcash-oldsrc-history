@@ -10,9 +10,9 @@ OKCash is digital cash. OK is the official symbol. Transactions have really fast
 
 Some of the OKCash features: Fast, Efficient, Social, Community based (like Bitcoin), Decentralized, Transparency, Private Message Center, friendly to use, Universal name, Multicultural, Multi-platform, IoT(Internet of Things), Tor and i2p compatible.
 
-OKCash Ann (EN): https://bitcointalk.org/index.php?topic=1028368.0
+OKCash BitcoinTalk Community Forum Ann: https://bitcointalk.org/index.php?topic=1028368.0
 
-OKCash Ann (ES): https://bitcointalk.org/index.php?topic=1206249.0
+OKCash Community Info Website: http://okcash.co
 
 OKCash Development process
 --------
