@@ -4,7 +4,7 @@
 OKCash OK
 ===========================
 
-### Platforms
+### Supported Platforms
 
 [![OK-windows](http://i.imgur.com/kJIvcip.png)](http://okcash.co/#jf_download) [![OK-mac](http://i.imgur.com/eW5Hlpc.png)](http://okcash.co/#jf_download) [![OK-ubuntu](http://imgur.com/orQ2ta4.png)](http://okcash.co/#jf_download) 
 
