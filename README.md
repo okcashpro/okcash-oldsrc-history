@@ -4,6 +4,12 @@
 OKCash OK
 ===========================
 
+### Platforms
+
+[![OK-windows](http://i.imgur.com/kJIvcip.png)](http://okcash.co/#jf_download) [![OK-mac](http://i.imgur.com/eW5Hlpc.png)](http://okcash.co/#jf_download) [![OK-ubuntu](http://imgur.com/orQ2ta4.png)](http://okcash.co/#jf_download) 
+
+[![OK-raspberry](http://imgur.com/UJNvyax.png)](http://okcash.co/#jf_download)  [![OK-pine](http://imgur.com/bUpbcNL.png)](http://okcash.co/#jf_download) [![OK-android](http://i.imgur.com/Tx4q5Dc.png)](http://okcash.co/#jf_download)
+
 ![OK-bootstrap](http://i.imgur.com/edwu0MM.png) Updated Instant Bootstrap (OK-blockchain): https://github.com/okcashpro/ok-blockchain/releases
 
 OKCash is digital cash. OK is the official symbol. Transactions have really fast confirmations, making them virtually instant. You can send OKCash to family or friends, or pay for goods or services, anywhere in the world. The OKCash network is decentralized and free from middlemen, giving you back control of your finances and providing a secure network for all of your payments. 
