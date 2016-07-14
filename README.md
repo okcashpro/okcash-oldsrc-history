@@ -1,18 +1,28 @@
 ![OKCash-OK](http://i.imgur.com/rOeEycy.png)
 
 [![Build Status](https://travis-ci.org/okcashpro/okcash.svg?branch=master)](https://travis-ci.org/okcashpro/okcash) [![Download OK wallet](https://img.shields.io/badge/downloads-latest%20client-blue.svg)](https://github.com/okcashpro/okcash/releases/latest) [![OK Network](https://img.shields.io/badge/network%20status-stable-brightgreen.svg)](http://explorer.okcash.co) 
-OKCash OK
-===========================
+# OKCash OK
 
-### Supported Platforms
+-------------------
+
+### Download Supported Platforms
 
 [![OK-windows](http://i.imgur.com/kJIvcip.png)](http://okcash.co/#jf_download) [![OK-mac](http://i.imgur.com/eW5Hlpc.png)](http://okcash.co/#jf_download) [![OK-ubuntu](http://imgur.com/orQ2ta4.png)](http://okcash.co/#jf_download) 
 
 [![OK-raspberry](http://imgur.com/UJNvyax.png)](http://okcash.co/#jf_download)  [![OK-pine](http://imgur.com/bUpbcNL.png)](http://okcash.co/#jf_download) [![OK-android](http://i.imgur.com/Tx4q5Dc.png)](http://okcash.co/#jf_download)
 
-![OK-bootstrap](http://i.imgur.com/edwu0MM.png) Updated Instant Bootstrap (OK-blockchain): https://github.com/okcashpro/ok-blockchain/releases
+#### Download the Instant OK-Blockchain (Fast Sync for first time users): 
+![OK-bootstrap](http://i.imgur.com/edwu0MM.png) https://github.com/okcashpro/ok-blockchain/releases
 
-OKCash is digital cash. OK is the official symbol. Transactions have really fast confirmations, making them virtually instant. You can send OKCash to family or friends, or pay for goods or services, anywhere in the world. The OKCash network is decentralized and free from middlemen, giving you back control of your finances and providing a secure network for all of your payments. 
+--------------------
+
+**OKCash** is digital cash. **OK** is the official symbol. 
+
+Transactions have real fast confirmations, making them virtually instant. 
+
+You can send OKCash to family or friends, or pay for goods or services, anywhere in the world. 
+
+The OKCash network is decentralized and free from middlemen, giving you back control of your finances and providing a secure network for all of your payments. 
 
 Some of the OKCash features: Fast, Efficient, Social, Community based (like Bitcoin), Decentralized, Transparency, Private Messages, friendly to use, Universal name, Multicultural, Multi-platform, IoT(Internet of Things), Tor and i2p compatible.
 
