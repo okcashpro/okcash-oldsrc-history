@@ -3,6 +3,13 @@
 [![Build Status](https://travis-ci.org/okcashpro/okcash.svg?branch=master)](https://travis-ci.org/okcashpro/okcash) [![Download OK wallet](https://img.shields.io/badge/downloads-latest%20client-blue.svg)](https://github.com/okcashpro/okcash/releases/latest) [![OK Network](https://img.shields.io/badge/network%20status-stable-brightgreen.svg)](http://explorer.okcash.co) 
 # OKCash OK
 
+<iframe src="https://discordapp.com/widget?id=213747404745211904&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+### Join the new communications server
+<a href="https://discord.gg/grvpc8c">
+    <img alt="Logo" src="https://discordapp.com/api/guilds/213747404745211904/widget.png?style=banner2">
+  </a>
+
 -------------------
 
 ### Download Supported Platforms
@@ -42,11 +49,7 @@ Some of the OKCash features: **Fast, Efficient, Social, Community based (like Bi
 
 #### OK Reddit community: https://reddit.com/r/okcash
 
-#### OK Slack community: https://okcash.slack.com/
-
-##### Auto-Invites to OK Slack: https://okcash.herokuapp.com
-
-#### OK IRC Freenode community: [#okcash](https://kiwiirc.com/client/irc.freenode.net/?nick=ok|?&theme=cli#okcash)
+#### OK Communications Channels: https://discord.gg/grvpc8c
 
 -------------------
 
