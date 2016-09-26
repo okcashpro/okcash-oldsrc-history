@@ -47,6 +47,8 @@ Some of the OKCash features: **Fast, Efficient, Social, Community based (like Bi
 
 #### OK Twitter community: https://twitter.com/OkcashCrypto
 
+#### OK Facebook community: https://www.facebook.com/OKCashCrypto/
+
 #### OK Reddit community: https://reddit.com/r/okcash
 
 #### OK Communications Channels: https://discord.gg/grvpc8c
